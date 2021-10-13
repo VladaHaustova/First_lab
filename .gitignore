@@ -1,0 +1,7 @@
+\.idea\
+\.directory_to_extract_to\
+\.venv\
+\.ipynb_checkpoints\
+\._lab1\
+\data.csv
+\firsttest.ipynb
